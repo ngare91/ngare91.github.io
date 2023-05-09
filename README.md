@@ -1,5 +1,5 @@
-# ngare91.github.io
-Github page where one can search a weapon and see the traits that go with
+# Huntshowdown Weapon Trait Mapper
+Github page where one can search a weapon in  and see the traits that go with
 
 to-do:
     find traits that go with weapons
