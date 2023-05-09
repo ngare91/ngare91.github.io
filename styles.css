@@ -1,0 +1,48 @@
+input {
+        font-size: 1rem;
+}
+
+body {
+        background-color: #000000;
+}
+
+.search-wrapper {
+        display: flex;
+        flex-direction: column;
+        gap: .25rem;
+        color: #FFFFFF
+}
+
+.weapon-traits-label {
+        color: #FFFFFF;
+        margin-top: 3rem;
+}
+
+.weapon_card {
+        display: grid;
+        grid-template-columns: 150px 600px;
+        gap: 5.25rem;
+        margin-top: 1rem;
+        padding: 10px;
+        border-radius: 10px;
+}
+
+.weapon_card {
+        border: 1px solid black;
+        background-color: white;
+        padding: .5rem;
+}
+
+.weapon_card > .header {
+        margin-bottom: .25rem;
+}
+
+.weapon_card > .body {
+        font-size: .10rem;
+        margin-left: 200-rem;
+        color: #999;
+}
+
+.hide {
+        display: none;
+}

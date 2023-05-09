@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta htttp-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel='stylesheet' href='styles.css'>
+        <script src="script.js" defer></script>
+        <title>Hunt Showdown Weapons Trait Mapper</title>
+</head>
+<body>
+        <div class="search-wrapper">
+                <label for ="search"> Search Weapons</label>
+                <input type="search" id="search" data-search>
+        </div>
+
+        <!-- labels here -->
+        <div class="weapon-traits-label">
+                <text> Weapons &emsp;&emsp;&emsp; -> &nbsp&nbsp&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Traits</text>
+        </div>
+
+        <div class="weapon-cards" data-weapon-cards-container></div>
+                <template data-weapon-template>
+                        <div class="weapon_card">
+                                <div class="header" data-weapon-name></div>
+                                <div class="traits" data-traits></div>
+                        </div>
+                </template>
+        
+</body>
+</html>
