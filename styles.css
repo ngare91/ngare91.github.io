@@ -33,7 +33,7 @@ body {
         padding: .5rem;
 }
 
-.weapon_card > .header {
+.weapon_card > .weaponname {
         margin-bottom: .25rem;
 }
 

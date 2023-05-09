@@ -21,22 +21,19 @@ typescript
 const weaponCardTemplate = document.querySelector("[data-weapon-template]")
 const weaponCardTcontainer = document.querySelector("[data-weapon-cards-container]")
 const searchInput = document.querySelector("[data-search]")
-let weaponsss = []
+let weapons_list = []
 searchInput.addEventListener("input", e => {
         const value = e.target.value.toLowerCase()
-        weaponsss.forEach(weapon => { 
-                console.log(weapon.weapon_name)
-                console.log(weapon.traits)
+        weapons_list.forEach(weapon => { 
                 const isVisible = weapon.weapon_name.toLowerCase().includes(value)
                 weapon.element.classList.toggle("hide", !isVisible)
-                console.log(weaponsss)
         })
 })
 
 fetch("weapons.json")
 .then(res => res.json())
 .then (data => {
-        weaponsss = data.map(weapon => {
+        weapons_list = data.map(weapon => {
                 const card = weaponCardTemplate.content.cloneNode(true).children[0]
                 const weapon_name = card.querySelector("[data-weapon-name]")
                 const traits = card.querySelector("[data-traits]")
