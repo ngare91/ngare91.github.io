@@ -16,6 +16,7 @@ in future, right side, option to sort by trait cost
 
 nodeJS, import as little as possible
 typescript
+i hope this triggers gitlab pages run
 */
 
 const weaponCardTemplate = document.querySelector("[data-weapon-template]")
