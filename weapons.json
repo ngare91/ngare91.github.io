@@ -1,134 +1,382 @@
 [
-        {
-          "weapon_name": "Berthier Mle 1892",
-          "traits": "magpie"
-        },
-        {
-          "weapon_name": "Bomb Lance",
-          "traits": "magpie, steady hand"
-        },
-        {
-          "weapon_name": "Bornheim No. 3",
-          "traits": "magpie, steady hand"
-        },
-        {
-          "weapon_name": "Bow",
-          "traits": "magpie, steady hand"
-        },
-        {
-          "weapon_name": "Caldwell 92 New Army",
-          "traits": "magpie, steady hand"
-        },
-        {
-          "weapon_name": "Caldwell Conversion Pistol",
-          "traits": "magpie, steady hand"
-        },
-        {
-          "weapon_name": "Caldwell Pax",
-          "traits": "magpie, steady hand"
-        },
-        {
-          "weapon_name": "Caldwell Rival 78",
-          "traits": "magpie, steady hand"
-        },
-        {
-          "weapon_name": "Cavalry Saber",
-          "traits": "magpie"
-        },
-        {
-          "weapon_name": "Combat Axe",
-          "traits": "magpie, levering"
-        },
-        {
-          "weapon_name": "Crossbow",
-          "traits": "magpie, levering"
-        },
-        {
-          "weapon_name": "Crown & King Auto-5",
-          "traits": "magpie, levering"
-        },
-        {
-          "weapon_name": "Dolch 96",
-          "traits": "magpie, levering"
-        },
-        {
-          "weapon_name": "Lebel 1886",
-          "traits": "magpie, levering"
-        },
-        {
-          "weapon_name": "LeMat Mark II Revolver",
-          "traits": "magpie, levering"
-        },
-        {
-          "weapon_name": "Machete",
-          "traits": "magpie, levering"
-        },
-        {
-          "weapon_name": "Martini-Henry IC1",
-          "traits": "magpie, levering"
-        },
-        {
-          "weapon_name": "Mosin-Nagant M1891",
-          "traits": "magpie, levering"
-        },
-        {
-          "weapon_name": "Nagant M1895",
-          "traits": "magpie, levering"
-        },
-        {
-          "weapon_name": "Nagant M1895 Officer",
-          "traits": "magpie, levering"
-        },
-        {
-          "weapon_name": "Nitro Express Rifle",
-          "traits": "magpie, levering"
-        },
-        {
-          "weapon_name": "Romero 77",
-          "traits": "magpie, levering"
-        },
-        {
-          "weapon_name": "Scottfield Model 3",
-          "traits": "magpie, levering"
-        },
-        {
-          "weapon_name": "Sparks LRR",
-          "traits": "magpie, levering"
-        },
-        {
-          "weapon_name": "Specter 1882",
-          "traits": "magpie"
-        },
-        {
-          "weapon_name": "Springfield 1866",
-          "traits": "magpie"
-        },
-        {
-          "weapon_name": "Springfield 1892 Krag",
-          "traits": "magpie"
-        },
-        {
-          "weapon_name": "Vetterli 71 Karabiner",
-          "traits": "magpie"
-        },
-        {
-          "weapon_name": "Winfield 1887 Terminus",
-          "traits": "magpie"
-        },
-        {
-          "weapon_name": "Winfield 1893 Slate",
-          "traits": "magpie"
-        },
-        {
-          "weapon_name": "Winfield M1873",
-          "traits": "magpie"
-        },
-        {
-          "weapon_name": "Winfield M1873C",
-          "traits": "magpie"
-        },
-        {
-          "weapon_name": "Winfield M1876 Centennial",
-          "traits": "magpie"
-        }
+  {
+    "weapon_name": "Winfield M1873C",
+    "traits": "Iron Repeater, Levering"
+  },
+  {
+    "weapon_name": "Winfield M1873C Silencer",
+    "traits": "Iron Repeater, Levering"
+  },
+  {
+    "weapon_name": "Winfield M1873C Marksman",
+    "traits": "Iron Repeater, Levering, Marksman Scopesmith"
+  },
+  {
+    "weapon_name": "Winfield M1873C Vandal",
+    "traits": "Iron Repeater, Levering"
+  },
+  {
+    "weapon_name": "Winfield M1873C Vandal Striker",
+    "traits": "Iron Repeater, Levering"
+  },
+  {
+    "weapon_name": "Winfield M1873C Vandal Striker Deadeye",
+    "traits": "Iron Repeater, Levering, Deadeye Scopemith"
+  },
+  {
+    "weapon_name": "Springfield 1866",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Springfield 1866 Marksman",
+    "traits": "Marksman Scopesmith"
+  },
+  {
+    "weapon_name": "Springfield 1866 Compact",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Springfield 1866 Compact Striker",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Springfield 1866 Compact Striker Deadeye",
+    "traits": "Steady Hand, Deadeye Scopemith"
+  },
+  {
+    "weapon_name": "Martini-Henry IC1",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Martini-Henry IC1 Deadeye",
+    "traits": "Deadeye Scopemith"
+  },
+  {
+    "weapon_name": "Martini-Henry IC1 Riposte",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Martini-Henry IC1 Marksman",
+    "traits": "Steady Aim, Marksman Scopesmith"
+  },
+  {
+    "weapon_name": "Martini-Henry IC1 Ironside",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Vetterli 71 Karabiner",
+    "traits": "Iron Sharpshooter"
+  },
+  {
+    "weapon_name": "Vetterli 71 Karabiner Deadeye",
+    "traits": "Iron Sharpshooter, Steady Aim, Deadeye Scopemith"
+  },
+  {
+    "weapon_name": "Vetterli 71 Karabiner Marksman",
+    "traits": "Iron Sharpshooter, Steady Aim, Marksman Scopesmith"
+  },
+  {
+    "weapon_name": "Vetterli 71 Karabiner Bayonet",
+    "traits": "Iron Sharpshooter"
+  },
+  {
+    "weapon_name": "Vetterli 71 Karabiner Silencer",
+    "traits": "Iron Sharpshooter"
+  },
+  {
+    "weapon_name": "Winfield M1876 Centennial",
+    "traits": "Iron Repeater, Levering"
+  },
+  {
+    "weapon_name": "Winfield M1876 Centennial Sniper",
+    "traits": "Iron Repeater, Levering, Sniper Scopesmith"
+  },
+  {
+    "weapon_name": "Winfield M1876 Centennial Trauma",
+    "traits": "Iron Repeater, Levering"
+  },
+  {
+    "weapon_name": "Winfield M1873",
+    "traits": "Iron Repeater"
+  },
+  {
+    "weapon_name": "Winfield M1873 Aperture",
+    "traits": "Iron Repeater"
+  },
+  {
+    "weapon_name": "Winfield M1873 Talon",
+    "traits": "Iron Repeater"
+  },
+  {
+    "weapon_name": "Winfield M1873 Swift",
+    "traits": "Iron Repeater"
+  },
+  {
+    "weapon_name": "Winfield M1873 Musket Bayonet",
+    "traits": "Iron Repeater"
+  },
+  {
+    "weapon_name": "Sparks LLR",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Sparks Pistol",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Sparks LLR Silencer",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Sparks LLR Sniper",
+    "traits": "Sniper Scopesmith"
+  },
+  {
+    "weapon_name": "Berthier Mle 1892",
+    "traits": "Iron Sharpshooter, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Berthier Mle 1892 Riposte",
+    "traits": "Iron Sharpshooter, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Berthier Mle 1892 Deadeye",
+    "traits": "Iron Sharpshooter, Deadeye Scopemith"
+  },
+  {
+    "weapon_name": "Lebel 1886",
+    "traits": "Iron Sharpshooter, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Lebel 1886 Aperture",
+    "traits": "Iron Sharpshooter, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Lebel 1886 Talon",
+    "traits": "Iron Sharpshooter, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Lebel 1886 Marksman",
+    "traits": "Iron Sharpshooter, Bulletgrubber, Marksman Scopesmith"
+  },
+  {
+    "weapon_name": "Springfield M1892 Krag",
+    "traits": "Iron Sharpshooter"
+  },
+  {
+    "weapon_name": "Mosin-Nagant M1891",
+    "traits": "Iron Sharpshooter, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Mosin-Nagant M1891 Obrez",
+    "traits": "Iron Sharpshooter, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Mosin-Nagant M1891 Bayonet",
+    "traits": "Iron Sharpshooter, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Mosin-Nagant M1891 Obrez Mace",
+    "traits": "Iron Sharpshooter, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Mosin-Nagant M1891 Sniper",
+    "traits": "Iron Sharpshooter, Bulletgrubber, Sniper Scopesmith"
+  },
+  {
+    "weapon_name": "Mosin-Nagant M1891 Obrez Drum",
+    "traits": "Iron Sharpshooter, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Mosin-Nagant M1891 Avtomat",
+    "traits": "Iron Sharpshooter, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Nitro Express",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Nagant M1895",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Nagant M1895 Precison",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Nagant M1895 Silencer",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Nagant M1895 Deadeye",
+    "traits": "Steady Hand, Deadeye Scopemith, Fanning"
+  },
+  {
+    "weapon_name": "Scottfield No.3",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Scottfield No.3 Brawler",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Scottfield No.3 Spitfire",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Scottfield No.3 Precision",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Scottfield No.3 Swift",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Caldwell 92 New Army",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Caldwell Conversion Pistol",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Caldwell Conversion Chain Pistol",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Caldwell Conversion Uppercut",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Caldwell Pax",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Caldwell Pax Claw",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Bornheim No. 3",
+    "traits": "Bulletgrubber"
+  },
+  {
+    "weapon_name": "Bornheim No. 3 Match",
+    "traits": "Bulletgrubber"
+  },
+  {
+    "weapon_name": "Lemat Mark II",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Lemat Mark II Carbine",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Nagant M1895 Officer",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Nagant M1895 Officer Brawler",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Nagant M1895 Officer Carbine",
+    "traits": "Fanning"
+  },
+  {
+    "weapon_name": "Dolch 96",
+    "traits": "Bulletgrubber"
+  },
+  {
+    "weapon_name": "Dolch 96 Precision",
+    "traits": "Bulletgrubber"
+  },
+  {
+    "weapon_name": "Romero 77",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Romero 77 Handcannon",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Romero 77 Talon",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Romero 77 Hatchet",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Romero 77 Alamo",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Winfield 1887 Terminus",
+    "traits": "Iron Repeater, Levering, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Winfield 1887 Terminus Handcannon",
+    "traits": "Iron Repeater, Levering, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Caldwell Rival 78",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Caldwell Rival 78 Handcannon",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Specter 1882",
+    "traits": "Iron Devastator, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Specter 1882 Compact",
+    "traits": "Iron Devastator, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Specter 1882 Bayonet",
+    "traits": "Iron Devastator, Bulletgrubber"
+  },
+  {
+    "weapon_name": "Winfield 1893 Slate",
+    "traits": "Iron Devastator"
+  },
+  {
+    "weapon_name": "Crown &King Auto-5",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Combat Axe",
+    "traits": "Ghoul, Silent Killer"
+  },
+  {
+    "weapon_name": "Throwing Axes",
+    "traits": "Ghoul, Silent Killer"
+  },
+  {
+    "weapon_name": "Machete",
+    "traits": "Ghoul, Silent Killer"
+  },
+  {
+    "weapon_name": "Cavalry Saber",
+    "traits": "Ghoul, Silent Killer"
+  },
+  {
+    "weapon_name": "Bomb Lance",
+    "traits": "Ghoul, Silent Killer"
+  },
+  {
+    "weapon_name": "Hand Crossbow",
+    "traits": "Bolt Thrower"
+  },
+  {
+    "weapon_name": "Crossbow",
+    "traits": "Bolt Thrower"
+  },
+  {
+    "weapon_name": "Hunting Bow",
+    "traits": "Hundred Hands"
+  }
 ]
