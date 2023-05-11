@@ -26,7 +26,9 @@ let weapons_list = []
 searchInput.addEventListener("input", e => {
         const value = e.target.value.toLowerCase()
         weapons_list.forEach(weapon => { 
-                const isVisible = weapon.weapon_name.toLowerCase().includes(value)
+                const isVisible = 
+                        weapon.weapon_name.toLowerCase().includes(value) ||
+                        weapon.traits.toLowerCase().includes(value)
                 weapon.element.classList.toggle("hide", !isVisible)
         })
 })
