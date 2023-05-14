@@ -201,11 +201,11 @@
   },
   {
     "weapon_name": "Nagant M1895 Precison",
-    "traits": "Fanning"
+    "traits": ""
   },
   {
     "weapon_name": "Nagant M1895 Silencer",
-    "traits": "Fanning"
+    "traits": ""
   },
   {
     "weapon_name": "Nagant M1895 Deadeye",
@@ -225,11 +225,11 @@
   },
   {
     "weapon_name": "Scottfield No.3 Precision",
-    "traits": "Fanning"
+    "traits": ""
   },
   {
     "weapon_name": "Scottfield No.3 Swift",
-    "traits": "Fanning"
+    "traits": ""
   },
   {
     "weapon_name": "Caldwell 92 New Army",
@@ -269,7 +269,7 @@
   },
   {
     "weapon_name": "Lemat Mark II Carbine",
-    "traits": "Fanning"
+    "traits": ""
   },
   {
     "weapon_name": "Nagant M1895 Officer",
@@ -281,7 +281,7 @@
   },
   {
     "weapon_name": "Nagant M1895 Officer Carbine",
-    "traits": "Fanning"
+    "traits": ""
   },
   {
     "weapon_name": "Dolch 96",
@@ -353,7 +353,7 @@
   },
   {
     "weapon_name": "Throwing Axes",
-    "traits": "Ghoul, Silent Killer"
+    "traits": "Ghoul, Silent Killer, Blade Seer"
   },
   {
     "weapon_name": "Machete",
@@ -365,18 +365,166 @@
   },
   {
     "weapon_name": "Bomb Lance",
-    "traits": "Ghoul, Silent Killer"
+    "traits": "Ghoul, Silent Killer, Bulwark"
   },
   {
     "weapon_name": "Hand Crossbow",
-    "traits": "Bolt Thrower"
+    "traits": "Bolt Thrower, Blade Seer, Dewclaw"
   },
   {
     "weapon_name": "Crossbow",
-    "traits": "Bolt Thrower"
+    "traits": "Bolt Thrower, Blade Seer, Dewclaw"
   },
   {
     "weapon_name": "Hunting Bow",
-    "traits": "Hundred Hands"
+    "traits": "Hundred Hands, Blade Seer, Dewclaw"
+  },
+  {
+    "weapon_name": "Vitality Shot",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Stamina Shot",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Regeneration Shot",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Knife",
+    "traits": "Ghoul, Silent Killer"
+  },
+  {
+    "weapon_name": "Throwing Knives",
+    "traits": "Blade Seer, Frontiersman"
+  },
+  {
+    "weapon_name": "Heavy Knife",
+    "traits": "Ghoul, Silent Killer"
+  },
+  {
+    "weapon_name": "Electric Lamp",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Fusees",
+    "traits": "Frontiersman"
+  },
+  {
+    "weapon_name": "Flare Pistol",
+    "traits": "Frontiersman"
+  },
+  {
+    "weapon_name": "First Aid Kit",
+    "traits": "Physician, Doctor, Frontiersman"
+  },
+  {
+    "weapon_name": "Dusters",
+    "traits": "Ghoul, Silent Killer"
+  },
+  {
+    "weapon_name": "Spyglass",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Fire Bomb",
+    "traits": "Pitcher"
+  },
+  {
+    "weapon_name": "Liquid Fire Bomb",
+    "traits": "Pitcher"
+  },
+  {
+    "weapon_name": "HellFire Bomb",
+    "traits": "Pitcher"
+  },
+  {
+    "weapon_name": "Choke Bombs",
+    "traits": "Frontiersman, Pitcher"
+  },
+  {
+    "weapon_name": "Antidoe Shot",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Poison Bomb",
+    "traits": "Pitcher"
+  },
+  {
+    "weapon_name": "Hive Bomb",
+    "traits": "Pitcher"
+  },
+  {
+    "weapon_name": "Poison Trip Mines",
+    "traits": "Frontiersman"
+  },
+  {
+    "weapon_name": "Dynamite Stick",
+    "traits": "Pitcher"
+  },
+  {
+    "weapon_name": "Waxed Dynamite Stick",
+    "traits": "Pitcher"
+  },
+  {
+    "weapon_name": "Sticky Bomb",
+    "traits": "Pitcher"
+  },
+  {
+    "weapon_name": "Dynamite Bundle",
+    "traits": "Pitcher"
+  },
+  {
+    "weapon_name": "Frag Bomb",
+    "traits": "Pitcher"
+  },
+  {
+    "weapon_name": "Big Dynamite Bundle",
+    "traits": "Pitcher"
+  },
+  {
+    "weapon_name": "Stalker Beetle",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Decoys",
+    "traits": "Decoy Supply, Frontiersman"
+  },
+  {
+    "weapon_name": "Alert Trips Mines",
+    "traits": "Frontiersman"
+  },
+  {
+    "weapon_name": "Chaos Bombs",
+    "traits": "Pitcher"
+  },
+  {
+    "weapon_name": "Blank Fire Decoys",
+    "traits": "Decoy Supply, Frontiersman"
+  },
+  {
+    "weapon_name": "Decoy Fuses",
+    "traits": "Decoy Supply, Frontiersman"
+  },
+  {
+    "weapon_name": "Concertine Trip Mintes",
+    "traits": "Frontiersman"
+  },
+  {
+    "weapon_name": "Flash Bomb",
+    "traits": "Pitcher"
+  },
+  {
+    "weapon_name": "Concertine Bomb",
+    "traits": "Pitcher"
+  },
+  {
+    "weapon_name": "Ammo Box",
+    "traits": ""
+  },
+  {
+    "weapon_name": "Quad Derriger Pistol",
+    "traits": ""
   }
 ]
